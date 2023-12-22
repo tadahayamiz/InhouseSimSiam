@@ -1,16 +1,9 @@
-# cli_package
-a template repository for developing CLI package  
+# ihsimsiam
+a repository for in-house SimSiam implementation based on [this repository](https://github.com/PatrickHua/SimSiam).  
 
 # Note
 This repository is under construction and will be officially released by [Mizuno group](https://github.com/mizuno-group).  
 Please contact tadahaya[at]gmail.com before publishing your paper using the contents of this repository.  
-
-## Install
-- ``` pip install git+{URL OF THIS GITHUB REPOSITORY} ```  
-- In the development stage, it may be helpful to add ``` --force-reinstall ``` option  
-
-## How to use
-refer to ``` sample.ipynb ```  
 
 ## Organization
 ------------  
@@ -38,6 +31,5 @@ refer to ``` sample.ipynb ```
 
 ## Contact
 If you have any questions or comments, please feel free to create an issue on github here, or email us:  
-- YOUR ADDRESS  
 - tadahaya[at]gmail.com  
     - lead contact  
